@@ -1,4 +1,4 @@
 MyGitTest
 =========
 
-Git test
+Git test, Luiz Amaral
